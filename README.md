@@ -1,32 +1,46 @@
-# building-aCitySkyLine
+# **City SkyLine Webpage Project**
 
-This website was built using Free Code Camp instructions: Learn CSS Variables By Building A city Skyline
+## **Project Overview**
 
-Section: Responsive Web Design
+#### This Project Is A **City SkyLine**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-Course Name: Learn CSS Variables By Building A city Skyline
+#### The Primary Goal Is Learn CSS Variables By Building A City SkyLine.
 
-Deatils:
+## **Course Details**
 
-CSS variables help you organize your styles and reuse them.
++ **Course Section**: Responsive Web Design.
+  
++ **Project Name**:  City SkyLine.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In Responsive Web Design.
 
-In this course, you'll build a city skyline. You'll learn how to configure CSS variables so you can reuse them whenever you want.
+## **Purpose**
 
-Link:
+CSS Variables Help You Organize Your Styles And Reuse Them.  
 
-https://www.freecodecamp.org/
+In This Course, You'll Build A City Skyline. 
 
+You'll Learn How To Configure CSS Variables So You Can Reuse Them Whenever You Want.
 
+## **Acknowledgment**
 
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**All rights** To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-on Projects.
 
+I Am Showcasing This Project As Part of My Learning Journey, Completed Based on FreeCodeCamp's Resources And Guidance.
 
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
 
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
+## **Special Thanks**
 
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
+**[@codeManS](https://www.youtube.com/@codeManS)**
+
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
+
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
